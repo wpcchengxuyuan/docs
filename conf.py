@@ -22,7 +22,7 @@ extensions = [
     'sphinx.ext.intersphinx',
 #    'sphinxcontrib.httpdomain',
     'djangodocs',
-    'doc_extensions',
+#    'doc_extensions',
 ]
 templates_path = ['_templates']
 

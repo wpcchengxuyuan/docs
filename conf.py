@@ -20,7 +20,7 @@ sys.path.append(os.path.abspath('_ext'))
 extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.httpdomain',
+#    'sphinxcontrib.httpdomain',
     'djangodocs',
     'doc_extensions',
 ]
